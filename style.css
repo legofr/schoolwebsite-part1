@@ -1,0 +1,19 @@
+#img1{
+    width:100%;
+    border-width:2px;
+    border-color:blueviolet;
+    height:800px
+}
+
+#marqueestyle{
+    background-color: darkblue;
+    color:yellow;
+}
+#cu{
+    background-color:white
+}
+#ima{
+    border-radius:40px;
+    text-align:center;
+    height:490px;
+}
